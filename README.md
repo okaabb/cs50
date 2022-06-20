@@ -1,2 +1,2 @@
 # cs50
-cs50 solutions
+My Solutions for every CS50x 2021 problemset and lab.
