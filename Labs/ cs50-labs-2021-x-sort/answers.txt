@@ -1,0 +1,14 @@
+sort1 uses: Bubble sort
+
+How do you know?: because its time in sorted is less then merge and selection sort and it O(n-1) times while
+                  selection is O(n^2) and merge is O(n log n)
+
+sort2 uses: Merge sort
+
+How do you know?: because it is the fastet in the reversed as it takes the least time than other two sorts
+                  as it functions by O(n log n) 
+
+sort3 uses: Selection sort
+
+How do you know?: because the other two are merge and bubble.
+                  but also, because it takes less time in reversed than sort1 which is bubble but not less than merge in sort2
